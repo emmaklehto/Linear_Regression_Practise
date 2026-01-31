@@ -8,7 +8,7 @@ This repository demonstrates a **linear regression model** applied to the US Hou
 - **Filename:** `USA_Housing.csv`  
 - **Samples:** 5000  
 - **Features:** 7 numerical features + Address  
-- **Source:** [Kaggle - USA Housing](https://www.kaggle.com/datasets/aharless/usa-housing)
+- **Source:** [Kaggle - USA Housing](https://www.kaggle.com/datasets/vedavyasv/usa-housing/data)
 
 The goal is to **predict housing prices** based on numerical features like income, house age, and number of rooms.
 
